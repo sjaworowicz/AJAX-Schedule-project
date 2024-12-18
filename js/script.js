@@ -1,3 +1,4 @@
+const array = []; 
 
 const filteredArray = array.filter(element => {
     return condition;
@@ -7,7 +8,7 @@ const filteredArray = array.filter(element => {
     {
       "name": "Physical Education",
       "room": "GYM1",
-      "teacher": "MrS. Pusz",
+      "teacher": "Mrs. Pusz",
       "days": ["A", "B", "C", "E", "F"]
     },
     {
@@ -25,8 +26,8 @@ const filteredArray = array.filter(element => {
       {
         "name": "Honors NJIT IS219 Advanced Website Development W",
         "room": "Room C104",
-        "teacher": "Mr. Ertel",
-        "days": ["A", "B", "D", "E", "F"]
+        "teacher": "Mrs. McDonalds",
+        "days": ["B", "C", "D", "F", "G"]
       },
       {
         "name": "Graphic Design & Photography",
@@ -48,12 +49,9 @@ const filteredArray = array.filter(element => {
       },
   ];
   
-  // Function to filter classes for a specific day
   function getClassesForDay(day) {
     return scheduleData.filter(classInfo => classInfo.days.includes(day));
   }
-  
-  // Example usage: Get classes for 'A' day
+
   const aDayClasses = getClassesForDay('A');
   console.log(aDayClasses);
-  
