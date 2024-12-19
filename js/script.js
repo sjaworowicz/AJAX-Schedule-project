@@ -81,7 +81,6 @@ var submittedDayLetter = inputField.val();
 
 
 
-
     console.log(result.className);
     scheduleBody.append()
   };
