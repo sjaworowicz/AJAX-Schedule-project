@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Physical Education",
+      "teacher": "Mrs. Pusz",
+      "room": "GYM1",
+      "Classes Happen": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "name": "Tech Systems & Design",
+      "teacher": "Mr. Ertel",
+      "room": "C106",
+      "Classes Happen": [
+        "A",
+        "B",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "name": "Quantitative Reasoning",
+      "teacher": "Mrs. Heaney",
+      "room": "B207",
+      "Classes happen": [
+        "A",
+        "C",
+        "D",
+        "E",
+        "G"
+      ]
+    },
+    {
+      "name": "Honors NJIT IS219 Advanced Website Development W",
+      "teacher": "Mrs.McDonald",
+      "room": "C104",
+      "Classes Happen": [
+        "B",
+        "C",
+        "D",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "name": "Graphic Design & Photography",
+      "teacher": "Mrs. McDonald",
+      "room": "C104",
+      "Classes happen": [
+        "A",
+        "B",
+        "D",
+        "E",
+        "G"
+      ]
+    },
+    {
+      "name": "BCC English 121/155",
+      "teacher": "Mrs. Robinson",
+      "room": "B108",
+      "Classes happen": [
+        "A",
+        "B",
+        "D",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "name": "Band 2",
+      "teacher": "Mr. Gross",
+      "room": "A101",
+      "Classes Happen": [
+        "B",
+        "C",
+        "E",
+        "F",
+        "G"
+      ]
+    }
+  ]
