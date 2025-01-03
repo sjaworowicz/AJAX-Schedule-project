@@ -1,7 +1,7 @@
  [
     {
       "name": "Physical Education",
-      "teacher": "Mrs. Pusz",
+      "teacher": "Pusz, Katie",
       "room": "GYM1",
       "Days": [
         "A",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tech Systems & Design",
-      "teacher": "Mr. Ertel",
+      "teacher": "Ertel, Todd",
       "room": "C106",
       "Days": [
         "A",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Quantitative Reasoning",
-      "teacher": "Mrs. Heaney",
+      "teacher": "Holtz/Heaney",
       "room": "B207",
       "Days": [
         "A",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Honors NJIT IS219 Advanced Website Development W",
-      "teacher": "Mrs.McDonald",
+      "teacher": "McDonald, Ashley",
       "room": "C104",
       "Days": [
         "B",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Graphic Design & Photography",
-      "teacher": "Mrs. McDonald",
+      "teacher": "McDonald, Ashley",
       "room": "C104",
       "Days": [
         "A",
@@ -61,7 +61,7 @@
     },
     {
       "name": "BCC English 121/155",
-      "teacher": "Mrs. Robinson",
+      "teacher": "Robinson, Morgan",
       "room": "B108",
       "Days": [
         "A",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Band 2",
-      "teacher": "Mr. Gross",
+      "teacher": "Gross, Eric",
       "room": "A101",
       "Days": [
         "B",

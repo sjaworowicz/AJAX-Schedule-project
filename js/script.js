@@ -31,8 +31,26 @@ function appendClasses(data) {
   console.log(appendClasses);
 
   // Example usage: Get classes for 'A' day
-  const aDayClasses = getClassesForDay(inputField.val());
-  console.log(aDayClasses);
+  const DayClasses = getClassesForDay(inputField.val());
+  console.log(dayClasses);
 
-      scheduleBody.append()
+  for(let i = 0; i < 5; i++) {
+    classInfo = dayClasses[i]
+
+    htmlString += "<tr>"
+
+    for(ii = 0; ii < 5; ii++) {
+      htmlString += DayClasses(i).className + "</tr>"
+      htmlString += DayClasses(i).teacher + "</tr>"
+      htmlString += DayClasses(i).room + "</tr>"
+      htmlString += DayClasses(i).period + "</tr>"
+    }
+
+    htmlString += "</tr>";
+  }
+
+  // console.log(classInfo)
+
+
+      scheduleBody.append(htmlString);
 };
